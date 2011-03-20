@@ -1,0 +1,66 @@
+D:\HID\usb hid\UsbLibrary\bin\Debug\UsbLibrary.dll
+D:\HID\usb hid\UsbLibrary\bin\Debug\UsbLibrary.pdb
+D:\HID\usb hid\UsbLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\HID\usb hid\UsbLibrary\obj\Debug\UsbLibrary.dll
+D:\HID\usb hid\UsbLibrary\obj\Debug\UsbLibrary.pdb
+D:\Docs_Work\Project_23_Timer\C#\v1_usb_hid\UsbLibrary\bin\Debug\UsbLibrary.dll
+D:\Docs_Work\Project_23_Timer\C#\v1_usb_hid\UsbLibrary\bin\Debug\UsbLibrary.pdb
+D:\Docs_Work\Project_23_Timer\C#\v1_usb_hid\UsbLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\Docs_Work\Project_23_Timer\C#\v1_usb_hid\UsbLibrary\obj\Debug\UsbLibrary.dll
+D:\Docs_Work\Project_23_Timer\C#\v1_usb_hid\UsbLibrary\obj\Debug\UsbLibrary.pdb
+D:\Docs_Work\Project_23_Timer\C#\v2_usb\UsbLibrary\bin\Debug\UsbLibrary.dll
+D:\Docs_Work\Project_23_Timer\C#\v2_usb\UsbLibrary\bin\Debug\UsbLibrary.pdb
+D:\Docs_Work\Project_23_Timer\C#\v2_usb\UsbLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\Docs_Work\Project_23_Timer\C#\v2_usb\UsbLibrary\obj\Debug\UsbLibrary.dll
+D:\Docs_Work\Project_23_Timer\C#\v2_usb\UsbLibrary\obj\Debug\UsbLibrary.pdb
+D:\Docs_Work\Project_23_Timer\C#\v3_WindowsForms\MultiTimerWinForms\UsbLibrary\bin\Debug\UsbLibrary.dll
+D:\Docs_Work\Project_23_Timer\C#\v3_WindowsForms\MultiTimerWinForms\UsbLibrary\bin\Debug\UsbLibrary.pdb
+D:\Docs_Work\Project_23_Timer\C#\v3_WindowsForms\MultiTimerWinForms\UsbLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\Docs_Work\Project_23_Timer\C#\v3_WindowsForms\MultiTimerWinForms\UsbLibrary\obj\Debug\UsbLibrary.dll
+D:\Docs_Work\Project_23_Timer\C#\v3_WindowsForms\MultiTimerWinForms\UsbLibrary\obj\Debug\UsbLibrary.pdb
+D:\Docs_Work\Project_23_Timer\C#\v4_WindowsForms\MultiTimerWinForms\UsbLibrary\bin\Debug\UsbLibrary.dll
+D:\Docs_Work\Project_23_Timer\C#\v4_WindowsForms\MultiTimerWinForms\UsbLibrary\bin\Debug\UsbLibrary.pdb
+D:\Docs_Work\Project_23_Timer\C#\v4_WindowsForms\MultiTimerWinForms\UsbLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\Docs_Work\Project_23_Timer\C#\v4_WindowsForms\MultiTimerWinForms\UsbLibrary\obj\Debug\UsbLibrary.dll
+D:\Docs_Work\Project_23_Timer\C#\v4_WindowsForms\MultiTimerWinForms\UsbLibrary\obj\Debug\UsbLibrary.pdb
+D:\Docs_Work\Project_23_Timer\C#\v6_WindowsForms\MultiTimerWinForms\UsbLibrary\bin\Debug\UsbLibrary.dll
+D:\Docs_Work\Project_23_Timer\C#\v6_WindowsForms\MultiTimerWinForms\UsbLibrary\bin\Debug\UsbLibrary.pdb
+D:\Docs_Work\Project_23_Timer\C#\v6_WindowsForms\MultiTimerWinForms\UsbLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\Docs_Work\Project_23_Timer\C#\v6_WindowsForms\MultiTimerWinForms\UsbLibrary\obj\Debug\UsbLibrary.dll
+D:\Docs_Work\Project_23_Timer\C#\v6_WindowsForms\MultiTimerWinForms\UsbLibrary\obj\Debug\UsbLibrary.pdb
+D:\Docs_Work\Project_23_Timer\C#\v7_WindowsForms\MultiTimerWinForms\UsbLibrary\bin\Debug\UsbLibrary.dll
+D:\Docs_Work\Project_23_Timer\C#\v7_WindowsForms\MultiTimerWinForms\UsbLibrary\bin\Debug\UsbLibrary.pdb
+D:\Docs_Work\Project_23_Timer\C#\v7_WindowsForms\MultiTimerWinForms\UsbLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\Docs_Work\Project_23_Timer\C#\v7_WindowsForms\MultiTimerWinForms\UsbLibrary\obj\Debug\UsbLibrary.dll
+D:\Docs_Work\Project_23_Timer\C#\v7_WindowsForms\MultiTimerWinForms\UsbLibrary\obj\Debug\UsbLibrary.pdb
+D:\Docs_Work\Project_23_Timer\C#\v8_WindowsForms\MultiTimerWinForms\UsbLibrary\bin\Debug\UsbLibrary.dll
+D:\Docs_Work\Project_23_Timer\C#\v8_WindowsForms\MultiTimerWinForms\UsbLibrary\bin\Debug\UsbLibrary.pdb
+D:\Docs_Work\Project_23_Timer\C#\v8_WindowsForms\MultiTimerWinForms\UsbLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\Docs_Work\Project_23_Timer\C#\v8_WindowsForms\MultiTimerWinForms\UsbLibrary\obj\Debug\UsbLibrary.dll
+D:\Docs_Work\Project_23_Timer\C#\v8_WindowsForms\MultiTimerWinForms\UsbLibrary\obj\Debug\UsbLibrary.pdb
+D:\Docs_Work\Project_23_Timer\C#\v9_WindowsForms\MultiTimerWinForms\UsbLibrary\bin\Debug\UsbLibrary.dll
+D:\Docs_Work\Project_23_Timer\C#\v9_WindowsForms\MultiTimerWinForms\UsbLibrary\bin\Debug\UsbLibrary.pdb
+D:\Docs_Work\Project_23_Timer\C#\v9_WindowsForms\MultiTimerWinForms\UsbLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\Docs_Work\Project_23_Timer\C#\v9_WindowsForms\MultiTimerWinForms\UsbLibrary\obj\Debug\UsbLibrary.dll
+D:\Docs_Work\Project_23_Timer\C#\v9_WindowsForms\MultiTimerWinForms\UsbLibrary\obj\Debug\UsbLibrary.pdb
+D:\Docs_Work\Project_23_Timer\VisualStudio\v10_WindowsForms\MultiTimerWinForms\UsbLibrary\bin\Debug\UsbLibrary.dll
+D:\Docs_Work\Project_23_Timer\VisualStudio\v10_WindowsForms\MultiTimerWinForms\UsbLibrary\bin\Debug\UsbLibrary.pdb
+D:\Docs_Work\Project_23_Timer\VisualStudio\v10_WindowsForms\MultiTimerWinForms\UsbLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\Docs_Work\Project_23_Timer\VisualStudio\v10_WindowsForms\MultiTimerWinForms\UsbLibrary\obj\Debug\UsbLibrary.dll
+D:\Docs_Work\Project_23_Timer\VisualStudio\v10_WindowsForms\MultiTimerWinForms\UsbLibrary\obj\Debug\UsbLibrary.pdb
+D:\Docs_Work\Project_23_Timer\VisualStudio\v11_WindowsForms\MultiTimerWinForms\UsbLibrary\bin\Debug\UsbLibrary.dll
+D:\Docs_Work\Project_23_Timer\VisualStudio\v11_WindowsForms\MultiTimerWinForms\UsbLibrary\bin\Debug\UsbLibrary.pdb
+D:\Docs_Work\Project_23_Timer\VisualStudio\v11_WindowsForms\MultiTimerWinForms\UsbLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\Docs_Work\Project_23_Timer\VisualStudio\v11_WindowsForms\MultiTimerWinForms\UsbLibrary\obj\Debug\UsbLibrary.dll
+D:\Docs_Work\Project_23_Timer\VisualStudio\v11_WindowsForms\MultiTimerWinForms\UsbLibrary\obj\Debug\UsbLibrary.pdb
+D:\Docs_Work\Project_23_Timer\VisualStudio\v12_WindowsForms\MultiTimerWinForms\UsbLibrary\bin\Debug\UsbLibrary.dll
+D:\Docs_Work\Project_23_Timer\VisualStudio\v12_WindowsForms\MultiTimerWinForms\UsbLibrary\bin\Debug\UsbLibrary.pdb
+D:\Docs_Work\Project_23_Timer\VisualStudio\v12_WindowsForms\MultiTimerWinForms\UsbLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\Docs_Work\Project_23_Timer\VisualStudio\v12_WindowsForms\MultiTimerWinForms\UsbLibrary\obj\Debug\UsbLibrary.dll
+D:\Docs_Work\Project_23_Timer\VisualStudio\v12_WindowsForms\MultiTimerWinForms\UsbLibrary\obj\Debug\UsbLibrary.pdb
+G:\Docs_Work\Project_23_Timer\VisualStudio\v14_WindowsForms\MultiTimerWinForms\UsbLibrary\bin\Debug\UsbLibrary.dll
+G:\Docs_Work\Project_23_Timer\VisualStudio\v14_WindowsForms\MultiTimerWinForms\UsbLibrary\bin\Debug\UsbLibrary.pdb
+G:\Docs_Work\Project_23_Timer\VisualStudio\v14_WindowsForms\MultiTimerWinForms\UsbLibrary\obj\Debug\ResolveAssemblyReference.cache
+G:\Docs_Work\Project_23_Timer\VisualStudio\v14_WindowsForms\MultiTimerWinForms\UsbLibrary\obj\Debug\UsbLibrary.dll
+G:\Docs_Work\Project_23_Timer\VisualStudio\v14_WindowsForms\MultiTimerWinForms\UsbLibrary\obj\Debug\UsbLibrary.pdb
+G:\Docs_Work\Project_23_Timer\VisualStudio\v14_WindowsForms\MultiTimerWinForms\UsbLibrary\bin\Debug\UsbLibrary.XML

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiTimerWinForms", "MultiTimerWinForms\MultiTimerWinForms.csproj", "{2F2B5700-BD0B-4360-9A99-6E67CCBA2A8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsbLibrary", "UsbLibrary\UsbLibrary.csproj", "{71E42A6D-C432-4C03-BF4F-ABFD2A3173E0}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "MultiTimerSetup", "MultiTimerSetup\MultiTimerSetup.vdproj", "{40CB2349-4935-48AD-AEDB-6218A5CD7158}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "MultiTimerSetup2", "MultiTimerSetup2\MultiTimerSetup2.vdproj", "{CC5C38CC-BDE1-4513-8349-E9CC7ECDE344}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F2B5700-BD0B-4360-9A99-6E67CCBA2A8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F2B5700-BD0B-4360-9A99-6E67CCBA2A8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F2B5700-BD0B-4360-9A99-6E67CCBA2A8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F2B5700-BD0B-4360-9A99-6E67CCBA2A8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71E42A6D-C432-4C03-BF4F-ABFD2A3173E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71E42A6D-C432-4C03-BF4F-ABFD2A3173E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71E42A6D-C432-4C03-BF4F-ABFD2A3173E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71E42A6D-C432-4C03-BF4F-ABFD2A3173E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40CB2349-4935-48AD-AEDB-6218A5CD7158}.Debug|Any CPU.ActiveCfg = Debug
+		{40CB2349-4935-48AD-AEDB-6218A5CD7158}.Release|Any CPU.ActiveCfg = Release
+		{CC5C38CC-BDE1-4513-8349-E9CC7ECDE344}.Debug|Any CPU.ActiveCfg = Debug
+		{CC5C38CC-BDE1-4513-8349-E9CC7ECDE344}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+D:\Docs_Work\Project_23_Timer\C#\v1_usb_hid\UsbLibrary\bin\Release\UsbLibrary.dll
+D:\Docs_Work\Project_23_Timer\C#\v1_usb_hid\UsbLibrary\bin\Release\UsbLibrary.pdb
+D:\Docs_Work\Project_23_Timer\C#\v1_usb_hid\UsbLibrary\obj\Release\ResolveAssemblyReference.cache
+D:\Docs_Work\Project_23_Timer\C#\v1_usb_hid\UsbLibrary\obj\Release\UsbLibrary.dll
+D:\Docs_Work\Project_23_Timer\C#\v1_usb_hid\UsbLibrary\obj\Release\UsbLibrary.pdb
