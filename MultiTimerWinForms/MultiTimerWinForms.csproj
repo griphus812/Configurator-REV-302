@@ -64,62 +64,62 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="SystemSettings.cs" />
-    <Compile Include="Вспомогательные окна\ArrayEvents.cs">
+    <Compile Include="Additional windows\ArrayEvents.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Вспомогательные окна\ArrayEvents.Designer.cs">
+    <Compile Include="Additional windows\ArrayEvents.Designer.cs">
       <DependentUpon>ArrayEvents.cs</DependentUpon>
     </Compile>
-    <Compile Include="Вспомогательные окна\SunRises.cs">
+    <Compile Include="Additional windows\SunRises.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Вспомогательные окна\SunRises.Designer.cs">
+    <Compile Include="Additional windows\SunRises.Designer.cs">
       <DependentUpon>SunRises.cs</DependentUpon>
     </Compile>
-    <Compile Include="Вспомогательные окна\About.cs">
+    <Compile Include="Additional windows\About.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Вспомогательные окна\About.Designer.cs">
+    <Compile Include="Additional windows\About.Designer.cs">
       <DependentUpon>About.cs</DependentUpon>
     </Compile>
-    <Compile Include="Обработка USB\GetRelayVersionProgram.cs">
+    <Compile Include="Work with USB\GetRelayVersionProgram.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Обработка USB\GetRelayVersionProgram.Designer.cs">
+    <Compile Include="Work with USB\GetRelayVersionProgram.Designer.cs">
       <DependentUpon>GetRelayVersionProgram.cs</DependentUpon>
     </Compile>
-    <Compile Include="Обработка USB\ConnectionClass.cs" />
-    <Compile Include="Обработка USB\ConnectionDialog1.cs">
+    <Compile Include="Work with USB\ConnectionClass.cs" />
+    <Compile Include="Work with USB\ConnectionDialog1.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Обработка USB\ConnectionDialog1.Designer.cs">
+    <Compile Include="Work with USB\ConnectionDialog1.Designer.cs">
       <DependentUpon>ConnectionDialog1.cs</DependentUpon>
     </Compile>
-    <Compile Include="Дочерние классы\CtrlProgramOptionsClass.cs" />
-    <Compile Include="Дочерние классы\DataInFileClass.cs" />
-    <Compile Include="Дочерние классы\DeviceOptionsClass.cs" />
+    <Compile Include="Sub classes\CtrlProgramOptionsClass.cs" />
+    <Compile Include="Sub classes\DataInFileClass.cs" />
+    <Compile Include="Sub classes\DeviceOptionsClass.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="Дочерние классы\ListsEvents.cs" />
-    <Compile Include="Дочерние классы\Program.cs" />
+    <Compile Include="Sub classes\ListsEvents.cs" />
+    <Compile Include="Sub classes\Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Вспомогательные окна\ArrayEvents.resx">
+    <EmbeddedResource Include="Additional windows\ArrayEvents.resx">
       <DependentUpon>ArrayEvents.cs</DependentUpon>
       <SubType>Designer</SubType>
     </EmbeddedResource>
-    <EmbeddedResource Include="Вспомогательные окна\SunRises.resx">
+    <EmbeddedResource Include="Additional windows\SunRises.resx">
       <DependentUpon>SunRises.cs</DependentUpon>
       <SubType>Designer</SubType>
     </EmbeddedResource>
-    <EmbeddedResource Include="Вспомогательные окна\About.resx">
+    <EmbeddedResource Include="Additional windows\About.resx">
       <DependentUpon>About.cs</DependentUpon>
       <SubType>Designer</SubType>
     </EmbeddedResource>
-    <EmbeddedResource Include="Обработка USB\ConnectionDialog1.resx">
+    <EmbeddedResource Include="Work with USB\ConnectionDialog1.resx">
       <DependentUpon>ConnectionDialog1.cs</DependentUpon>
       <SubType>Designer</SubType>
     </EmbeddedResource>
@@ -132,7 +132,7 @@
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
     </EmbeddedResource>
-    <EmbeddedResource Include="Обработка USB\GetRelayVersionProgram.resx">
+    <EmbeddedResource Include="Work with USB\GetRelayVersionProgram.resx">
       <DependentUpon>GetRelayVersionProgram.cs</DependentUpon>
       <SubType>Designer</SubType>
     </EmbeddedResource>
@@ -152,7 +152,7 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
-    <Compile Include="Дочерние классы\TimerClass.cs" />
+    <Compile Include="Sub classes\TimerClass.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\UsbLibrary\UsbLibrary.csproj">
